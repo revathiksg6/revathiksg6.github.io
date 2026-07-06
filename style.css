@@ -167,3 +167,11 @@ footer {
 .nav-links {
   margin-left: 40px;
 }
+#contact a {
+  color: #4cc9f0;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
