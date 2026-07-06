@@ -13,6 +13,6 @@ window.addEventListener('scroll', function() {
   if (window.scrollY > 50) {
     nav.style.backgroundColor = '#0f0f1e';
   } else {
-    nav.style.backgroundColor = '#1a1a2e';
+    nav.style.backgroundColor = '#000000';
   }
 });
